@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
