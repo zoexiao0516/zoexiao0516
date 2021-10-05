@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ArcGIS and creating a global lighting map.
-- 🌱 I’m currently learning iOS development.
+- 🔭 I’m currently a senior studying data science at NYU.
+- 🌱 My interests: iOS development and data-driven UXD.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 - 😄 Pronouns: She/Her.
