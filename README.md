@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently a senior studying data science at NYU (studying away in Abu Dhabi, UAE).
-- 🌱 My interests: iOS development and data-driven UXD.
+- 🌱 My interests: data-driven UXD and iOS, data visualizations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 - 😄 Pronouns: She/Her.
