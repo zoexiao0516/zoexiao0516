@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently a senior studying data science at NYU (studying away in Abu Dhabi, UAE).
+- 🙋🏻‍♀️ Women in Tech, Creative Learner
+- 🔭 I’m currently a full-time data science student at NYU (studying away in Abu Dhabi, UAE from Aug to Dec 2021).
 - 🌱 My interests: data-driven UXD and iOS, data visualizations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
