@@ -6,6 +6,11 @@
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 - 💛 My favorite apps: Notion, Spotify
 - 😄 Pronouns: She/Her.
+
+## 📖 Statistics
+<!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=synthwave)
+
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
