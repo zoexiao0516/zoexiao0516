@@ -7,7 +7,7 @@
 - 💛 My favorite apps: Notion, Spotify
 - 😄 Pronouns: She/Her.
 
-## 📖 Statistics
+### 📖 Statistics
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=synthwave)
 
