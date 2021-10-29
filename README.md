@@ -9,7 +9,7 @@
 
 ### 📖 Statistics
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
 
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
