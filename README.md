@@ -11,8 +11,8 @@
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
 
-### Recents on Spotify 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3165iizqgn5iio5ydaw3pybk4ehm)
+### Recents on Spotify ☘️
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss)
 
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
