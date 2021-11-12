@@ -12,7 +12,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
 
 ### Recents on Spotify ☘️
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss&unique={true|1|on|yes})
 
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
