@@ -67,17 +67,20 @@
  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
  <a href="https://d3js.org/" target="_blank"> <img alt="d3js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/></a>
 
-<h3>Other</h3>
+<h3>Planning and Communication</h3>
  <a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
  <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 </p>
- 
+
+### Other
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-## 📖 GitHub Statistics
+<!-- ## 📖 GitHub Statistics -->
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark) -->
+
+### 📖 Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
 <!-- ### ☘️ Recents on Spotify -->
