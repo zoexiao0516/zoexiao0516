@@ -11,7 +11,7 @@
 - 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
 
-## 💼 I work with 
+## I work with...
 
 ### Languages
  
