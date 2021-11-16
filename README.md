@@ -23,7 +23,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/-C-239120?style=flat&logo=c-sharp&logoColor=white"/></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" src="http://img.shields.io/badge/-NodeJS-6EBF20?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
@@ -33,6 +32,9 @@
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 <a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>
+
 
  </p>
 
