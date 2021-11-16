@@ -35,6 +35,7 @@
 ### 📖 GitHub Statistics
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
 ### Recents on Spotify ☘️
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss)
