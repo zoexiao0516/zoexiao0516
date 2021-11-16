@@ -14,6 +14,7 @@
 ### My Stack 🗃
 <p align="left"> 
 
+<a href="" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=#3776AB"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
@@ -27,13 +28,14 @@
 <a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" src="http://img.shields.io/badge/-NodeJS-6EBF20?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a href="https://reactjs.org/" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://d3js.org/" target="_blank"> <img alt="d3js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 <a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
-<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>
 
 
  </p>
