@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+You have reached Zoe (Yajie) Xiao...
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=zoexiao0516)
+
 - 🙋🏻‍♀️ Women in Tech, Creative Learner, Aspiring Data Scientist.
 - 🔭 I’m currently a full-time data science student and part-time research assistant at NYU (studying away in Abu Dhabi, UAE from Aug to Dec 2021).
 - 🌱 My interests: data-driven UXD, iOS, data visualizations.
