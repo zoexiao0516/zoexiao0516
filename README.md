@@ -11,7 +11,7 @@
 - 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
 
-### My Stack 🗃
+### 💼 I work with 
 <p align="left"> 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -46,7 +46,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
-### Recents on Spotify ☘️
+### ☘️ Recents on Spotify
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss)
 
 <!--
