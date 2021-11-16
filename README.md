@@ -37,13 +37,13 @@
 <a href="https://www.adobe.com/" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
 <a href="https://www.adobe.com/" target="_blank"><img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>
 
-
  </p>
 
 
 <!-- ### 📖 GitHub Statistics -->
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
 <!-- ### ☘️ Recents on Spotify -->
