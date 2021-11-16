@@ -4,7 +4,7 @@
 - 🌱 My interests: data-driven UXD, iOS, data visualizations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
-- 💛 My favorite apps: Notion, Spotify
+- 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
 
 ### 📖 GitHub Statistics
