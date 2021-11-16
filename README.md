@@ -1,6 +1,4 @@
-# Hi there 👋
-
-You have reached Zoe (Yajie) Xiao...
+# Hi there 👋 I'm Zoe
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=zoexiao0516)
