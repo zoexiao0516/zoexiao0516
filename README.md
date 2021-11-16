@@ -71,7 +71,6 @@
  <a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
  <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 </p>
-
  
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
