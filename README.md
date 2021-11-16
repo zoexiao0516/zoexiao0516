@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Zoe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there! I'm Zoe Xiao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=zoexiao0516)
@@ -6,7 +6,8 @@
 - 🙋🏻‍♀️ Women in Tech, Creative Learner, Aspiring Data Scientist.
 - 🔭 I’m currently a full-time data science student and part-time research assistant at NYU (studying away in Abu Dhabi, UAE from Aug to Dec 2021).
 - 🌱 My interests: data-driven UXD, iOS, data visualizations.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
+- 📫 How to reach me: [<img align="left" alt="zoeyajiexiao | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="yx1750@nyu.edu | Gmail" width="22px" src="./gmail.svg" />][gmail]
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 - 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
