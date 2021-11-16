@@ -6,7 +6,7 @@
 - 🙋🏻‍♀️ Women in Tech, Creative Learner, Aspiring Data Scientist.
 - 🔭 I’m currently a full-time data science student and part-time research assistant at NYU (studying away in Abu Dhabi, UAE from Aug to Dec 2021).
 - 🌱 My interests: data-driven UXD, iOS, data visualizations.
-- 📫 How to reach me: [<img align="left" alt="zoeyajiexiao | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+- 📫 How to reach me: [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin] [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
 - 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
