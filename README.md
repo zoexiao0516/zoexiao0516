@@ -41,13 +41,13 @@
  </p>
 
 
-### 📖 GitHub Statistics
+<!-- ### 📖 GitHub Statistics -->
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
-### ☘️ Recents on Spotify
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss)
+<!-- ### ☘️ Recents on Spotify -->
+<!-- ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ggywkd9nt6vegkmhz329pblss) -->
 
 <!--
 **zoexiao0516/zoexiao0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
