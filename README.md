@@ -27,7 +27,7 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" src="http://img.shields.io/badge/-NodeJS-6EBF20?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-<a href="https://reactjs.org/" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
+<a href="https://reactjs.org/" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-51CBF2?style=for-the-badge&logo=react&logoColor=white"/></a>
 <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://d3js.org/" target="_blank"> <img alt="d3js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
