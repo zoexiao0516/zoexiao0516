@@ -11,7 +11,7 @@
 - 💛 My favorite apps: Notion, Spotify.
 - 😄 Pronouns: She/Her.
 
-### Toolkit 🗃
+### My Stack 🗃
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=#3776AB"/></a>
@@ -25,12 +25,14 @@
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" src="http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white"/></a>
-<a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="NodeJS" src="http://img.shields.io/badge/-NodeJS-6EBF20?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a href="https://reactjs.org/" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
-<a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+<a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://d3js.org/" target="_blank"> <img alt="d3js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
+<a href="https://www.notion.so/" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 
  </p>
 
@@ -38,7 +40,6 @@
 ### 📖 GitHub Statistics
 <!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoexiao0516&show_icons=true&theme=onedark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoexiao0516&theme=onedark&layout=compact)
 
 ### Recents on Spotify ☘️
