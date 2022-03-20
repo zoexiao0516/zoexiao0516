@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=zoexiao0516)
 
 - 🙋🏻‍♀️ Women in Tech, Creative Learner.
-- 🔭 I’m currently a full-time data science student and part-time research assistant at NYU (studying away in Abu Dhabi, UAE from Aug to Dec 2021).
+- 🔭 I’m currently a full-time data science student and part-time research assistant at NYU (studying away in Abu Dhabi, UAE from Aug 2021 to May 2022).
 - 🌱 My interests: data-driven UXD, business intelligence, data visualizations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
