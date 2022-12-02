@@ -3,12 +3,12 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=zoexiao0516)
 
-- 🙋🏻‍♀️ Women in Tech, Creative Learner.
+- 🙋🏻‍♀️ Women in Tech, Creative Learner, Storyteller with data.
 - 🔭 I’m an Master student at NYU Center for Data Science.
-- 🌱 My interests: data-driven UXD, business intelligence, data visualizations.
+- 🌱 My interests: data-driven UXD, business intelligence, data visualizations, machine learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zoe-yajie-xiao-078552186/)
 - ⚡ Fun fact: If I were not to work in tech, I would love to run a pet farm.
-- 💛 My favorite apps: Notion, Spotify.
+- 💛 My favorite apps: Notion, Spotify, Netflix.
 - 😄 Pronouns: She/Her.
 
 ## 🔍 I work with
